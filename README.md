@@ -22,7 +22,7 @@ The [DAIR-AI Emotion dataset](https://huggingface.co/datasets/dair-ai/emotion) (
 
 ## Run the notebook
 
-1. Open [EmoView_AML_Final_Project(5).ipynb](EmoView_AML_Final_Project%285%29.ipynb) in Google Colab.
+1. Open [EmoView_AML_Final_Project.ipynb](EmoView_AML_Final_Project%285%29.ipynb) in Google Colab.
 2. Select **Runtime → Change runtime type → T4 GPU**. The notebook enables FP16 for DistilBERT training.
 3. Run all cells in order. The notebook installs its Hugging Face dependencies and downloads the dataset and pretrained checkpoint.
 
